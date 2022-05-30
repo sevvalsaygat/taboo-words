@@ -1,0 +1,73 @@
+.word-card{
+  border: 1px solid rgba(128, 128, 128, 0.353);
+  text-align: center;
+  width: 20%;
+  padding: 2rem;
+  margin-top: 2rem;
+  border-radius: 2rem;
+  box-shadow: 10px 10px 5px rgba(61, 61, 61, 0.117);
+}
+
+.word-card-fb{
+  width: 100%;
+  height: auto;
+}
+
+ul{
+  list-style-type: none;
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.word-card-fb-element{
+  color: rgb(69, 47, 47);
+  font-weight: 500;
+}
+
+.word-card-header{
+  color: rgb(42, 55, 49);
+  font-size: 30px;
+}
+
+.color-red{
+  background-color: rgb(149, 52, 17);
+}
+
+.color-purple{
+  background-color: rgb(125, 101, 125);
+}
+
+.color-blue{
+  background-color: rgb(109, 122, 181);
+}
+
+.color-pink{
+  background-color: rgb(230, 119, 167);
+}
+
+.color-green{
+  background-color: rgb(84, 107, 84);
+}
+
+.color-orange{
+  background-color: rgb(207, 136, 5);
+}
+
+.color-brown{
+  background-color: rgb(82, 5, 5);
+}
+
+.color-yellow{
+  background-color: rgb(223, 223, 66);
+}
+
+.color-bisque{
+  background-color: rgb(216, 166, 106);
+}
